@@ -1,0 +1,6 @@
+{
+  "name": "LabelLens - Food & Nutrition Scanner",
+  "description": "Scan packaged food photos and nutrition labels to get instant health scores, allergen warnings, additive decoders, NOVA processing ratings, and healthy alternatives.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
